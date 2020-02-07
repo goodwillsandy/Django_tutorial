@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/kuliza-472/Desktop/Django_Tutorial/venv/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
